@@ -1,0 +1,7 @@
+.env
+__pycache__
+.ipynb_checkpoints
+mlruns
+mlflow.db
+trained_models
+inventory_forecast.log
