@@ -21,9 +21,11 @@ This project uses a simulated FMCG dataset, enriched with:
 ## **Architecture and Technologies Used**  
 ### **Architecture**  
 1. **Data Streaming:** Kafka (running in Docker) streams inventory data into S3.  
-2. **ETL Pipeline:** Glue processes data, and Lambda triggers transformations dynamically.  
-3. **Data Warehousing:** Redshift stores analytical-ready data.  
-4. **Dashboards:** Streamlit and Power BI provide interactive visualizations. 
+2. **Data Laking:** AWS S3 acts as a centralized data lake, storing raw and processed data for further analysis.  
+3. **ETL Pipeline:** Glue processes data, and Lambda triggers transformations dynamically.  
+4. **Data Warehousing:** Redshift stores analytical-ready data.  
+5. **Dashboards:** Streamlit and Power BI provide interactive visualizations.  
+
 ![image](https://github.com/user-attachments/assets/987af82b-4825-42f5-97f5-9b022a31140f)
 
 ---
