@@ -85,4 +85,4 @@ This project uses a simulated FMCG dataset, enriched with:
 
 ## **Connect with Me**  
 Have questions or want to collaborate? Let’s connect!  
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/el-meziane-cha%C3%AFma/)  
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/el-meziane-cha%C3%AFma/)  
